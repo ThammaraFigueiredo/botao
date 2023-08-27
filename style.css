@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+       
+}
+
+button{
+    width: 200px;
+    height: 100px;
+    font-size: 20px;
+    margin:10px;
+    background-color: brown;
+    color:antiquewhite;
+    border-radius: 20px;
+}
+
+button:hover{
+    background-color: rgb(16, 94, 23);
+    color:black;
+}
